@@ -1,4 +1,5 @@
 ##MOCKUPS
+
 ##Panatallas 1 y 2 
 
 Cuando se ingresa a la aplicación se tiene que ingresar el nombre o el Gmail ya previamente registrado y la contraseña de ahí lo envía directamente 

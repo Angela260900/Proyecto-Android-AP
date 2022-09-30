@@ -4,7 +4,9 @@
 Cuando se ingresa a la aplicación se tiene que ingresar el nombre o el Gmail ya previamente registrado y la contraseña de ahí lo envía directamente 
 al menú donde se encontrara con las tres funcionalidades el inventario, la contabilidad y los proveedores de el supermercado.
 
- ![1 pantalla]([https://ci3.googleusercontent.com/mail-img-att/AFCqZUR-P5PluS3oT4bsr9MmW0oI78Gk03UXaHcfMg_fB9VtmkSBU3t8dSXLSj545Zyt9THiu5nCrOUopz-skBagLt09EnDtXQEx8qWjwGZJebYvV_DSUorIZLF-2dTQgIGZDV5_aCPchWJCTRp9Kc9hxQexMMLcpmIH909w8SJbyCbsAup-MHXocZidOSYzfeB0bkegLlNiRhDxbDyiCFS9vFD5p8zz8trJ93qfC8A7Sf2QRw8-pIXLAedrLR11Em0AmzA-2bM_TL8XpJ22Y4dFsX-hRhuvqSuJQI7Fptzy3KfL8D6lcFEJHRR5V1NJpK-ekv0IU05Zg4lYiQtfMZfxvVN2xSY5Z0ij5cK2UfV9QHv8FQTK3tapW4s1BYjrpD1HwJ-N35Qd3EmmL2Jr_e8fUA2EWu7kJmsupxWDgA2I4wePZhEyPEUeL7zUKeBBtQFqEfagZA-2MmfetKzDkTUYq_A_lW2_4DaNXTK-3hM-zSVWHjcizjWCTvffqkrpWp6WC0xnSRvMWkq92q02QH2BldHXHOHE5jfRUR_ncc-5NPVIrkA3QAFEK80oj1tbcaCNlSwmcsWY_ke0d6l0G8-8YX19KUJG3oLWdgbVlfEViZXK5NFo-5xtcEuQY8oz8QtLZWFNT9-tFDZepLmNoxHXuMCFKXzwm86fbsygQ-65KrcYwH_CPs5ZOnU1aM_FJCv3_4_TMF6P9e1b5MhpX_XYNmTo2Tw7WbLpYi2Dt1RzHK8nN401RVQEfnvUZjlHYhCk88lHcXPYd2B9Y9MZNMAgGWOkDk_Q-pHb7mO4cjP7MibIGg4R8QNcRULB9Fe-btKy2ZOrjxvYvG-jgLIHQvTfgdQKvoJywajRtneezCEAKtsnp5F6NFC79J4j1F66XHslgbVr7i5EH_ZSUb5QvJS50mDzP5TU7LJTmDhoUBHRFox5o0xGgrjxggt8NUb9Tw=s0-l75-ft](https://mail.google.com/mail/u/0?ui=2&ik=4cdea76691&attid=0.2&permmsgid=msg-a:r3840357840184523413&th=1838c9c8a73be6d1&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_ahVtH9F7As-PHan5iZ1ss4co3IpE8uVEWv9111Ks8QcmSirzVj17gJffZyOvymTU71bUm5cDU0jAkf-h2gUeU2o1MhQ-_xI9i7cCMJmMc9blX3XZ8qdymp4Y&disp=emb&realattid=ii_l8nz3eac1))
+![M1](https://user-images.githubusercontent.com/110688904/193189993-b8c34ace-ce85-4702-a96d-c49ddf60532d.png)
+
+![M2](https://user-images.githubusercontent.com/110688904/193190062-4b2a46e1-d4d1-4c11-88b1-0d1a228a17a3.png)
 
 ##Pantalla 3 
 
@@ -12,6 +14,7 @@ Al ingresar ala inventario se encontrará con las diferentes opciones que vende 
 el producto a ver en inventario que cantidad hay y se le podrá agregar más.
 
 
+![M3](https://user-images.githubusercontent.com/110688904/193190105-38fc5925-f1d0-4c64-a10a-810608e402c7.png)
 
 
 ##Pantallas 4, 5 y 6
@@ -20,9 +23,18 @@ Los proveedores son las marcas que el supermercado tiene el combenio aqui podra 
 registro el cual ayudara a registrara los productos.
 
 
+![M4](https://user-images.githubusercontent.com/110688904/193190172-4a336f56-2b2d-4138-b51b-5ef048371398.png)
 
+![M5](https://user-images.githubusercontent.com/110688904/193190232-474e245f-b0ce-4932-97dc-8e56cdeb6a54.png)
+
+![M6](https://user-images.githubusercontent.com/110688904/193190255-5743c170-ad23-4d6d-89b1-3bbb30f9e73f.png)
 
 ##Pantallas 7 y 8
 
 Aqui el supermercado tiene la posibilidad de mirar cuantos ingresos tiene en un dia o en una semana o en mes par ver bien sus activos y tambien 
 las perdidas y el patrimonio que ya tiene.
+
+![M7](https://user-images.githubusercontent.com/110688904/193190287-1b676d50-55d9-4e59-8d4a-fb51af5896d3.png)
+
+![M8](https://user-images.githubusercontent.com/110688904/193190306-2d5ce609-e5bd-4ec6-9fd5-5e31200b8b14.png)
+

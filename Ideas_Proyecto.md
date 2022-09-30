@@ -1,4 +1,4 @@
-1. idea: kids learning
+1 idea: kids learning
 Es una interfaz donde tendrán videos y actividades para que los niños aprendan a nivel general como números, letras entre otros. 
 •	ABC Caligrafía - Práctica de escritura a mano
 •	HangArt
